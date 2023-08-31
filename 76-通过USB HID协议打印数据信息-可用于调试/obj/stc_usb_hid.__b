@@ -1,0 +1,4 @@
+TRANSFER
+".\obj\main.obj",
+".\lib\obj\stc_usb_hid.LIB" 
+TO ".\obj\stc_usb_hid.LIB"

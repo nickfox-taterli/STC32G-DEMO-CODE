@@ -1,0 +1,4 @@
+	CSEG		AT 0123H
+	JMP			006BH
+	
+	END
